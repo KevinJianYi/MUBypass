@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MUBypass</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello">你好！</string>
+    <string name="welcome_pally_mu_bypass">欢迎使用奇迹(MU)助手。</string>
+    <string name="swordman">剑士</string>
+    <string name="enchanter">魔法师</string>
+    <string name="sagittary">弓箭手</string>
+    <string name="m_swordman">魔剑士</string>
+    <string name="holy_mentor">圣导师</string>
+    <string name="kael">召唤师</string>
+    <string name="brawler">格斗家</string>
+    <string name="man_of_La_mancha">梦幻骑士</string>
+
+    <string name="title_activity_welcome">welcomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

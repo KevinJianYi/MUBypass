@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profession">
+        <item>剑士</item>
+        <item>法师</item>
+        <item>弓箭手</item>
+        <item>魔剑士</item>
+        <item>圣导师</item>
+        <item>召唤师</item>
+        <item>格斗家</item>
+        <item>梦幻骑士</item>
+    </string-array>
+    <integer-array name="profession_icon">
+
+    </integer-array>
+</resources>
